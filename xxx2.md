@@ -87,54 +87,92 @@
    87  cd c/
    88  ls
    89  cd/Users/"Luis Mauricio/
-pwd
-   90  cd/Users/"Luis Mauricio"
-   91  cd c/Users/"Luis Mauricio"
-   92  cd /c/Users/"Luis Mauricio"
-   93  pwd
-   94  cd /c/Users/"Luis Mauricio"/datasciencecoursera
-   95  git status
-   96  nano HelloWorld.md 
-   97  ls
-   98  git diff
-   99  git pull
-  100  git push
-  101  cd ..
-  102  pwd
-  103  mkdir test
-  104  cd test
-  105  pwd
-  106  git init
-  107  git remote add origin https://github.com/MauAlcocer/datasciencecoursera.git
-  108  cd ..
-  109  git status
-  110  cd test
-  111  git remote add origin git@github.com:MauAlcocer/datasciencecoursera.git
-  112  git remote set-url origin git@github.com:MauAlcocer/datasciencecoursera.git
-  113  git pull
-  114  ls
-  115  git pull master
-  116  git pull origin master
-  117  ls
-  118  pwd
-  119  history
-  120  touch XXX.md
-  121  ls
-  122  echo hola -> XXX.md 
-  123  git push
-  124  git status
-  125  git add -A
-  126  git status
-  127  git push --set-upstream origin master
-  128  git push
-  129  git commit -m "cree archivo XXX"
-  130  git push
-  131  history
-  132  history > XXX.md
-  133  echo XXX.md
-  134  nano XXX.md
-  135  touch XXX.md
-  136  ls
-  137  cat XXX.md 
-  138  pwd
-  139  history > XXX.md
+   90  pwd
+   91  cd/Users/"Luis Mauricio"
+   92  cd c/Users/"Luis Mauricio"
+   93  cd /c/Users/"Luis Mauricio"
+   94  pwd
+   95  cd /c/Users/"Luis Mauricio"/datasciencecoursera
+   96  git status
+   97  nano HelloWorld.md 
+   98  ls
+   99  git diff
+  100  git pull
+  101  git push
+  102  cd ..
+  103  pwd
+  104  mkdir test
+  105  cd test
+  106  pwd
+  107  git init
+  108  git remote add origin https://github.com/MauAlcocer/datasciencecoursera.git
+  109  cd ..
+  110  git status
+  111  cd test
+  112  git remote add origin git@github.com:MauAlcocer/datasciencecoursera.git
+  113  git remote set-url origin git@github.com:MauAlcocer/datasciencecoursera.git
+  114  git pull
+  115  ls
+  116  git pull master
+  117  git pull origin master
+  118  ls
+  119  pwd
+  120  history
+  121  touch XXX.md
+  122  ls
+  123  echo hola -> XXX.md 
+  124  git push
+  125  git status
+  126  git add -A
+  127  git status
+  128  git push --set-upstream origin master
+  129  git push
+  130  git commit -m "cree archivo XXX"
+  131  git push
+  132  history
+  133  history > XXX.md
+  134  echo XXX.md
+  135  nano XXX.md
+  136  touch XXX.md
+  137  ls
+  138  cat XXX.md 
+  139  pwd
+  140  history > XXX.md
+  141  cat XXX.md
+  142  exit
+  143  pwd
+  144  ls
+  145  cd c/users/"Luis Mauricio"
+  146  pwd
+  147  cd ..
+  148  pwd
+  149  cd c/
+  150  cd c/users/"Luis Mauricio"
+  151  cd c/
+  152  pwd
+  153  ls
+  154  cd c/users/
+  155  cd c/Users/
+  156  cd c/Users
+  157  cd Users
+  158  cd "Luis Mauricio"
+  159  pwd
+  160  ls
+  161  cd test
+  162  pwd
+  163  ls
+  164  git init
+  165  git remote set-url origin git@github.com:MauAlcocer/ProgrammingAssignment2.git
+  166  git pull
+  167  ls
+  168  git pull master
+  169  git push
+  170  git status
+  171  git add -A
+  172  git status
+  173  git push --set-upstream origin mybranch
+  174  git checkout -b mybranch
+  175  git push --set-upstream origin mybranch
+  176  git branch
+  177  history
+  178  history > xxx2.md
